@@ -2,4 +2,4 @@ Este es un texto de prueba unicamente. Recibe un saludo.
 Se esta añadiendo esta linea de texto como practica en la clase.
 Se esta añadiendo una tercera linea de texto al archivo
 
-Contribuidor: RichardoHR
+Contribuidor: RichardoHReyes
